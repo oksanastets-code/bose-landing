@@ -68,6 +68,7 @@ ul {
 }
 .nav__link {
   text-decoration: none;
+  color: inherit;
   font-weight: 700;
   font-size: 22px;
   line-height: 22px;
